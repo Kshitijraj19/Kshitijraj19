@@ -12,9 +12,9 @@
 
 ```python
 Name = "Kshitij Raj"
-Class = "BCA 2nd Year"
-Age = "19"
-Country = "🇮🇳"
+Class = "BCA 4th Year"
+Age = "21"India
+Country = ""
 ```
 
 <details>
