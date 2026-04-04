@@ -13,8 +13,8 @@
 ```python
 Name = "Kshitij Raj"
 Class = "BCA 4th Year"
-Age = "21"India
-Country = ""
+Age = "21"
+Country = "India"
 ```
 
 <details>
