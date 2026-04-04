@@ -24,12 +24,12 @@ Country = "India"
 <br>
 
 ----
-![GitHub followers](https://img.shields.io/github/followers/KshitijRaj19?label=Follow&style=social)
-![](https://visitor-badge.glitch.me/badge?page_id=KshitijRaj19.KshitijRaj19)
-[![Profile views](https://komarev.com/ghpvc/?username=KshitijRaj19&label=Profile%20views)](https://github.com/KshitijRaj19)
-![Github Trophy](https://github-profile-trophy.vercel.app/?username=KshitijRaj19)
+![GitHub followers](https://img.shields.io/github/followers/imkshitijraj?label=Follow&style=social)
+![](https://visitor-badge.glitch.me/badge?page_id=imkshitijraj.imkshitijraj)
+[![Profile views](https://komarev.com/ghpvc/?username=imkshitijraj&label=Profile%20views)](https://github.com/imkshitijraj)
+![Github Trophy](https://github-profile-trophy.vercel.app/?username=imkshitijraj)
   
-<a href="https://github-readme-stats.vercel.app/api?username=KshitijRaj19&layout=compact&show_icons=true&theme=chartreuse-dark&cache_seconds=1800">
+<a href="https://github-readme-stats.vercel.app/api?username=imkshitijraj&layout=compact&show_icons=true&theme=chartreuse-dark&cache_seconds=1800">
     <img width="60%" align="center" alt="𝙼𝚢 𝙶𝚒𝚝𝚑𝚞𝚋 𝚂𝚝𝚊𝚝𝚜" src="https://github-readme-stats.vercel.app/api?username=KshitijRaj19&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=86400" />
 
 </a>
@@ -41,8 +41,8 @@ Country = "India"
 <h2 align="center"><b>⠂𝙼𝚘𝚜𝚝 𝚄𝚜𝚎𝚍 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜⠐
 <br>
 <br>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=IM-KSHITIJ&layout=compact&theme=midnight-purple&hide=Css">
-    <img width="60%" align="center" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IM-KSHITIJ&layout=compact&theme=midnight-purple&hide=Css" />
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=imkshitijraj&layout=compact&theme=midnight-purple&hide=Css">
+    <img width="60%" align="center" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imkshitijraj&layout=compact&theme=midnight-purple&hide=Css" />
 </a>
 </b></h2>  
 </details>
@@ -66,7 +66,7 @@ Country = "India"
   <br>
 
 [![Instagram](https://img.shields.io/badge/-Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/imkshitijraj) [!
-[![telegram](https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logocolor=white)](https://t.me/KSHITIJ_RAJ) [![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/imKshitijraj) [![facebook](https://img.shields.io/badge/Facebook-4267B2?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/kshitij.raj.79827?mibextid=ZbWKwL)  [![Replit](https://img.shields.io/badge/Repl.it-%230D101E?style=for-the-badge&logo=repl.it&logoColor=white)](https://repl.it/@KSHITIJ-RAJ)</b></h2> 
+[![telegram](https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logocolor=white)](https://t.me/imkshitijraj) [![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/imKshitijraj) [![facebook](https://img.shields.io/badge/Facebook-4267B2?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/kshitij.raj.79827?mibextid=ZbWKwL)  [![Replit](https://img.shields.io/badge/Repl.it-%230D101E?style=for-the-badge&logo=repl.it&logoColor=white)](https://repl.it/@imkshitijraj)</b></h2> 
 </details>
 <details>
 <summary>⠂𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜 𝙰𝚗𝚍 𝚃𝚘𝚘𝚕𝚜 𝙸 𝙻𝚘𝚟𝚎⠐</summary>
